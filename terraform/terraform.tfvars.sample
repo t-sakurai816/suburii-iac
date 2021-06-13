@@ -1,0 +1,3 @@
+# 環境変数ファイル
+myHouseIp = "xx.xx.xx.xx/32"
+key_name  = "local-key-name"
