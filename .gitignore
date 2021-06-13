@@ -1,0 +1,5 @@
+.DS_Store
+find . -size +100M | sed -e 's/^\.\///'
+terraform-provider-aws*
+.env
+terraform.tfvars
